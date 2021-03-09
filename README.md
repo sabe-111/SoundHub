@@ -5,3 +5,4 @@
 ## Команда авторов
 
 - [Астраханцев Роман](https://github.com/Astrarog)
+- [Дудин Евгений](https://github.com/evgeniydudin9045)

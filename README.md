@@ -7,3 +7,4 @@
 - [Астраханцев Роман](https://github.com/Astrarog)
 - [Дудин Евгений](https://github.com/evgeniydudin9045)
 - [Новикова Евгения](https://github.com/Eva-novikova)
+- [Хокшанов Наран](https://github.com/sabe-111)
